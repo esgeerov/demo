@@ -1,0 +1,5 @@
+name= gunel
+password= esgerov
+dob= 2023-06-21
+email= esgerov140@gmail.com
+country= England
